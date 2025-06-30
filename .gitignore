@@ -6,6 +6,7 @@ config/config.py
 
 # test sesstions
 *.session
+*.session-journal
 
 .DS_Store
 
@@ -13,3 +14,5 @@ config/config.py
 
 __pycache__/
 *.pyc
+
+downloads/
